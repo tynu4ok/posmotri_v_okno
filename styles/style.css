@@ -155,11 +155,6 @@ ol {
   margin: 1px;
 }
 
-.search-form__label:has(:focus-visible) {
-  padding: 2px;
-  border: 1px solid #FFF;
-}
-
 .button {
   cursor: pointer;
   height: 100%;
